@@ -10,10 +10,11 @@ By combining **Operational Quality Metrics** (NCR tracking, welding repair rates
 ## 📸 Dashboard Previews
 
 ### 1. Project Quality & Audit Performance Dashboard
-*(Add your screenshot of Exercise 3 here)*
+![Project Quality Dashboard](screenshots/Monthly_Project_Performance_Graph.png)
+![Project Quality Dashboard](screenshots/Monthly_Project_Performance_Report.png)
 
 ### 2. Financial Plan vs. Actual Variance Analysis
-*(Add your screenshot of Exercise 4 here)*
+![Financial Variance Dashboard](screenshots/Plan_vs_Actual_Financial_Report.png)
 
 ---
 
